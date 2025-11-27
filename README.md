@@ -1,8 +1,8 @@
 # TA-2 Assignment: DeepFake Image Detection Model
 
-Name: Utsav Nagar
-Enrollment No: 250103002026
-Course: MSc Cyber Security
+Name: Utsav Nagar <br>
+Enrollment No: 250103002033 <br>
+Course: MSc Cyber Security <br>
 
 This project implements a complete DeepFake Image Detection System using:
 
